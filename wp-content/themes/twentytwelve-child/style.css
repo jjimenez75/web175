@@ -1,0 +1,18 @@
+/* 
+
+
+Theme Name: Twenty Twelve Child
+Description: A Child Theme of Twenty Twelve
+Author: Josh Jimenez
+Author URI: jjimenez.mccdgm.net/enlightenedbalance
+Template: twentytwelve
+Version: 0.1.0
+
+*/
+
+@import url("../twentytwelve/style.css");
+
+body{
+    background-color: #66cc99;
+    color:#004080;
+}
